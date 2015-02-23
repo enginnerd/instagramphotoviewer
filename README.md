@@ -22,7 +22,7 @@ Completed user stories:
 
 Walkthrough of all user stories:
 The login credentials were scrubbed from the video walkthrough.
-Scrolling the Instagram feed in the emulator while recording produced some weird jumps (touch input).
+The viewing of the self feed is not shown to protect the content of some private feeds (ping me if a demonstration is needed)
 
 ![Video Walkthrough](InstagramApp_capture1.gif)
 
