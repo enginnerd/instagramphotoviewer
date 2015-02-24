@@ -24,6 +24,8 @@ Walkthrough of all user stories:
 The login credentials were scrubbed from the video walkthrough.
 The viewing of the self feed is not shown to protect the content of some private feeds (ping me if a demonstration is needed)
 
+The client id was stripped from the code, add your own if you wish to compile and update the redirect URL too.
+
 ![Video Walkthrough](InstagramApp_capture1.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
